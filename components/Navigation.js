@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyleSheet, Text, View, TouchableOpacity, TextInput, Alert } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity, TextInput, Alert, Platform } from 'react-native';
 import NavigationButton from './NavigationButton';
 import { useTheme } from '../theme/ThemeContext';
 
@@ -111,7 +111,11 @@ export default function Navigation(props) {
 
   const gotoPage = () => {
     if (goToPage > lastPageNumber) {
-      Alert.alert('Page Value Out of Range', `Please enter a value between 1 and ${lastPageNumber}.`, [{ text: "OK"}]);
+      if (Platform.OS === 'android' || Platform.OS === 'ios') {
+        Alert.alert('Page Value Out of Range', `Please enter a value between 1 and ${lastPageNumber}.`, [{ text: "OK"}]);
+      } else {
+        alert(`Page value out of range. Please enter a value between 1 and ${lastPageNumber}.`);
+      }
       return;
     }
     goToTop();
