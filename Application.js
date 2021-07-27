@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { StyleSheet, Text, View, ScrollView, ActivityIndicator, SafeAreaView, StatusBar, Platform, KeyboardAvoidingView, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, ScrollView, ActivityIndicator, SafeAreaView, StatusBar, Platform } from 'react-native';
 import axios from 'axios';
 import Characters from './components/Characters';
 import Navigation from './components/Navigation';
@@ -43,7 +43,7 @@ export default function Application() {
       backgroundColor: colors.background,
       alignItems: 'center',
       justifyContent: 'flex-start',
-      paddingBottom: 150,
+      paddingBottom: 150, // Used with Scrollview so the bottom doesn't get cut off
     },
   });
   // End of component styling
