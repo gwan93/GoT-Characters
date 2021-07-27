@@ -26,7 +26,7 @@ The application fetches data from the [anapioficeandfire.com](anapioficeandfire.
 4. Enjoy.
 
 ## Future Development
-- Move component styling into separate files
+- Further support for more mobile devices. App developed on iPhone Xs and Samsung Galaxy S9.
 
 ## Screenshots
 
