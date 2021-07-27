@@ -1,5 +1,5 @@
 # Game of Thrones / A Song of Ice and Fire Characters Mobile App
-A Single Page Applicationexp  built with React Native.
+A Single Page Application project built with React Native to view the characters from George R. R. Martin's Game of Thrones/A Song of Ice and Fire science fiction series.
 
 ## Description
 The application fetches data from the [anapioficeandfire.com](anapioficeandfire.com) API server. Each request returns 10 characters per request. The characters are then displayed on a single page on the app. Users can navigate to different pages using first, previous, next, and last page navigation buttons. Character data is saved and new character data is fetched only when requested. Navigating back to a page where the character data exists already will not make an additional call to the API.
@@ -26,7 +26,7 @@ The application fetches data from the [anapioficeandfire.com](anapioficeandfire.
 4. Enjoy.
 
 ## Future Development
-- Move component styling into separate files
+- Further support for more mobile devices. App developed on iPhone Xs and Samsung Galaxy S9.
 
 ## Screenshots
 
