@@ -32,45 +32,36 @@ The application fetches data from the [anapioficeandfire.com](anapioficeandfire.
 
 Landing
 <br>
-!['Landing'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Landing.png?raw=true)
+<img src="https://github.com/gwan93/GoT-Characters/blob/main/docs/Landing.png?raw=true" width="295" height="640">
 <br>
 <br>
 
 Dark Mode
 <br>
-!['DarkMode'](https://github.com/gwan93/GoT-Characters/blob/main/docs/DarkMode.png?raw=true)
+<img src="https://github.com/gwan93/GoT-Characters/blob/main/docs/DarkMode.png?raw=true" width="295" height="640">
 <br>
 <br>
 
 Expanded Character View
 <br>
-!['Expanded'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Expanded.png?raw=true)
+<img src="https://github.com/gwan93/GoT-Characters/blob/main/docs/Expanded.png?raw=true" width="295" height="640">
 <br>
 <br>
 
-Navigation Buttons
+Navigation Buttons and Keyboard View
 <br>
-!['Navigation'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Navigation.png?raw=true)
-<br>
-<br>
-
-Keyboard View
-<br>
-!['Keyboard'](https://github.com/gwan93/GoT-Characters/blob/main/docs/GoTo.png?raw=true)
+<img src="https://github.com/gwan93/GoT-Characters/blob/main/docs/GoTo.png?raw=true" width="295" height="640">
 <br>
 <br>
 
 Loading Spinner
 <br>
-!['Loading'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Loading.png?raw=true)
+<img src="https://github.com/gwan93/GoT-Characters/blob/main/docs/Loading.png?raw=true" width="295" height="640">
 <br>
 <br>
 
 Error Message
 <br>
-!['Error'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Error.png?raw=true)
+<img src="https://github.com/gwan93/GoT-Characters/blob/main/docs/Error.png?raw=true" width="295" height="640">
 <br>
 <br>
-
-
-
