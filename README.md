@@ -20,10 +20,9 @@ The application fetches data from the [anapioficeandfire.com](anapioficeandfire.
 5. A new Metro window will open up in your default browser. The address will be similar to `localhost:19002`
 
 ## Opening the App
-1. If you have Android Studio installed on your machine already, you can press `a` in the terminal to open up an Android emulator. If nothing happens, you may need to open up the Android emulator before pressing `a`
-2. If you do not have Android Studio installed or would like to open the app on a mobile device instead, scan the QR code found in the Metro window (step 5 above) to open the app on your device. You may be prompted to download the Expo Go app on the Google Play Store/Apple Store if you do not already have it.
-3. Click the prompt to open the app in Expo Go.
-4. Enjoy.
+- Android Studio: If you have Android Studio installed on your machine already, you can press `a` in the terminal to open up an Android emulator. If nothing happens, you may need to open up the Android emulator before pressing `a`
+- Mobile Device: If you do not have Android Studio installed or would like to open the app on a mobile device instead, scan the QR code found in the Metro window (step 5 above) to open the app on your device. You may be prompted to download the Expo Go app on the Google Play Store/Apple Store if you do not already have it. Click the prompt to open the app in Expo Go.
+- Browser: Within the Metro window (step 5 above), click the "Run in web browser" option.
 
 ## Future Development
 - Further support for more mobile devices. App developed on iPhone Xs and Samsung Galaxy S9.
