@@ -2,7 +2,7 @@
 A Single Page Application project built with React Native.
 
 ## Description
-The application fetches data from the anapioficeandfire.com API server. Each request returns 10 characters per request. The characters are then displayed on a single page on the app. Users can navigate to different pages using first, previous, next, and last page navigation buttons. Character data is saved and new character data is fetched only when requested. Navigating back to a page where the character data exists already will not make an additional call to the API.
+The application fetches data from the [anapioficeandfire.com](anapioficeandfire.com) API server. Each request returns 10 characters per request. The characters are then displayed on a single page on the app. Users can navigate to different pages using first, previous, next, and last page navigation buttons. Character data is saved and new character data is fetched only when requested. Navigating back to a page where the character data exists already will not make an additional call to the API.
 
 ## Stretch Features
 - A loading spinner when the app is awaiting a response from the API server.
@@ -32,32 +32,43 @@ The application fetches data from the anapioficeandfire.com API server. Each req
 
 Landing
 <br>
-!['Home']()
+!['Landing'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Landing.png?raw=true)
 <br>
 <br>
-
 
 Dark Mode
 <br>
-!['Login']()
+!['DarkMode'](https://github.com/gwan93/GoT-Characters/blob/main/docs/DarkMode.png?raw=true)
 <br>
 <br>
 
 Expanded Character View
 <br>
-!['Login']()
+!['Expanded'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Expanded.png?raw=true)
 <br>
 <br>
 
 Navigation Buttons
 <br>
-!['Login']()
+!['Navigation'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Navigation.png?raw=true)
+<br>
+<br>
+
+Keyboard View
+<br>
+!['Keyboard'](https://github.com/gwan93/GoT-Characters/blob/main/docs/GoTo.png?raw=true)
+<br>
+<br>
+
+Loading Spinner
+<br>
+!['Loading'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Loading.png?raw=true)
 <br>
 <br>
 
 Error Message
 <br>
-!['Login']()
+!['Error'](https://github.com/gwan93/GoT-Characters/blob/main/docs/Error.png?raw=true)
 <br>
 <br>
 
