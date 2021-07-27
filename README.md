@@ -1,5 +1,5 @@
 # Game of Thrones / A Song of Ice and Fire Characters Mobile App
-A Single Page Application project built with React Native.
+A Single Page Applicationexp  built with React Native.
 
 ## Description
 The application fetches data from the [anapioficeandfire.com](anapioficeandfire.com) API server. Each request returns 10 characters per request. The characters are then displayed on a single page on the app. Users can navigate to different pages using first, previous, next, and last page navigation buttons. Character data is saved and new character data is fetched only when requested. Navigating back to a page where the character data exists already will not make an additional call to the API.
@@ -20,7 +20,7 @@ The application fetches data from the [anapioficeandfire.com](anapioficeandfire.
 5. A new Metro window will open up in your default browser. The address will be similar to `localhost:19002`
 
 ## Opening the App
-1. If you have Android Studio installed on your machine already, you can press `a` in the terminal to open up an Android emulator.
+1. If you have Android Studio installed on your machine already, you can press `a` in the terminal to open up an Android emulator. If nothing happens, you may need to open up the Android emulator before pressing `a`
 2. If you do not have Android Studio installed or would like to open the app on a mobile device instead, scan the QR code found in the Metro window (step 5 above) to open the app on your device. You may be prompted to download the Expo Go app on the Google Play Store/Apple Store if you do not already have it.
 3. Click the prompt to open the app in Expo Go.
 4. Enjoy.
